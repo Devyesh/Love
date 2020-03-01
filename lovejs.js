@@ -23,6 +23,6 @@
 		var r=Math.random();
 		r=r*100;
 		r=Math.ceil(r);
-		alert("Love is "+r);
+		alert("Love is "+r+"%");
 		}
 		}
